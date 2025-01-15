@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Messaging app (Whatsapp Clone) (React, NodeJS, RESTapi)</b> (https://github.com/aubadahe/MAD-Assignment-)
+- <b>FilmDatabase CRUD Application (IMDB Clone) (React, NodeJS, SQL)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -14,7 +15,7 @@
 [linkedin]: https://www.linkedin.com/in/aubadah-elfitouri-b6b32723a/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
