@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Messaging app (Whatsapp Clone) (React, NodeJS, RESTapi)</b> (https://github.com/aubadahe/MAD-Assignment-)
-- <b>FilmDatabase CRUD Application (IMDB Clone) (React, NodeJS, MVC, SQL)</b> (https://github.com/aubadahe/FilmDatabase)
+- <b>FilmDatabase CRUD Application (IMDB Clone) (javascript, html/css, MVC, SQL)</b> (https://github.com/aubadahe/FilmDatabase)
 
 <h2> 🤳 Connect with me:</h2>
 
