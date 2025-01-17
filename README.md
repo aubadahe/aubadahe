@@ -5,6 +5,7 @@
 - <b>Messaging app (Whatsapp Clone) 💬 (React, NodeJS, RESTfulAPI)</b> (https://github.com/aubadahe/MAD-Assignment-)
 - <b>FilmDatabase CRUD Application (IMDB Clone) 📽️ (javascript, html/css, MVC, SQL)</b> (https://github.com/aubadahe/FilmDatabase)
 - <b>Personal Library Management System 🕮 (Python, html/css, RESTfulAPI)</b> (https://github.com/aubadahe/Personal-Library-Management-System)
+- <b>Public NoticeBoard 📝 (PHP, SQL,javascript, HTML/CSS) (https://github.com/aubadahe/Public-Noticeboard-project)
 
 <h2> 🤳 Connect with me:</h2>
 
