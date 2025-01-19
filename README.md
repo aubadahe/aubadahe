@@ -3,10 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Messaging app (Whatsapp Clone) 💬 (React, NodeJS, RESTfulAPI)</b> (https://github.com/aubadahe/MAD-Assignment-)
-- <b>FilmDatabase CRUD Application (IMDB Clone) 📽️ (javascript, html/css, MVC, SQL)</b> (https://github.com/aubadahe/FilmDatabase)
 - <b>Personal Library Management System 🕮 (Python, html/css, RESTfulAPI)</b> (https://github.com/aubadahe/Personal-Library-Management-System)
 - <b>Public NoticeBoard 📝 (PHP, SQL, javascript, HTML/CSS) (https://github.com/aubadahe/Public-Noticeboard-project)
+- <b>FilmDatabase CRUD Application (IMDB Clone) 📽️ (javascript, html/css, MVC, SQL)</b> (https://github.com/aubadahe/FilmDatabase)
 
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AubadahElfitouri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
